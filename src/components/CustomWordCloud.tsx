@@ -7,9 +7,9 @@ import { useTheme } from "next-themes";
 type Props = {};
 
 const data = [
-  { text: "Hey", value: 13 },
-  { text: "Hi", value: 32 },
-  { text: "Hello", value: 14 },
+  { text: "Hi", value: 13 },
+  { text: "Hey", value: 32 },
+  { text: "Hello", value: 19 },
   { text: "Whatsup", value: 27 },
   { text: "How You Doin", value: 2 },
 ];
